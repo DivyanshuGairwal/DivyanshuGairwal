@@ -1,43 +1,86 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&center=true&vCenter=true&width=700&lines=Hi+I'm+Divyanshu;Full+Stack+Developer;Building+AI+Powered+Projects;Always+Learning+New+Things)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋 I'm Divyanshu</h1>
 
-### Full Stack Developer | CS Student at UPES
+<h3 align="center">Full Stack Developer • BCA Student at UPES • Building AI Powered Products</h3>
 
-I enjoy building web applications and AI-powered products that solve real-world problems.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+AI+Powered+Projects;React+and+Next.js+Developer;Always+Learning+New+Things" />
+</p>
 
-- 🌱 Currently learning Full Stack Development and AI Integration
-- 💻 Building projects with React, Next.js, Node.js and Python
-- 🚀 Interested in AI Agents, Automation and SaaS Products
+---
 
-## 🛠 Tech Stack
+## 🚀 About Me
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+- 🎓 BCA Student at UPES Dehradun
+- 💻 Interested in Full Stack Development and AI Applications
+- 🌱 Currently learning Next.js, TypeScript and AI Integration
+- 🚀 Building projects that solve real world problems
+- 🎯 Goal: Become a strong Software Engineer and AI Product Builder
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,mongodb,git,github,vscode,html,css" />
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
-### PrepWise
+### 🎯 PrepWise
 AI Powered Interview Preparation Platform
 
-### Disaster Identification and Awareness Tool
-Real Time Dashboard using React and APIs
+- Upload Resume + Job Description
+- Generates Technical HR and Resume Based Questions
+- Built using Next.js TypeScript Tailwind CSS and OpenRouter
 
-### COVID-19 Forecasting
-Time Series Forecasting and Data Visualization
+---
 
-## 📫 Connect With Me
+### 🌍 Disaster Identification and Awareness Tool
 
-[LinkedIn](https://www.linkedin.com/in/divyanshu-gairwal-980315299)
+- Real Time Disaster Monitoring Dashboard
+- Integrated Weather USGS and Geolocation APIs
+- Built using React JavaScript and Vercel
 
-[GitHub](https://github.com/DivyanshuGairwal)
+---
+
+### 📈 COVID 19 Forecasting
+
+- Time Series Forecasting Pipeline
+- Data Analysis using Python Pandas and Statsmodels
+- Interactive Visualization using Power BI
+
+---
+
 ## 📊 GitHub Stats
 
-![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DivyanshuGairwal&show_icons=true)
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DivyanshuGairwal&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuGairwal&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuGairwal&layout=compact)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DivyanshuGairwal&theme=tokyonight&hide_border=true" />
+</p>
 
+---
 
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/divyanshu-gairwal-980315299/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/DivyanshuGairwal">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building things one commit at a time 🚀</i>
+</p>
