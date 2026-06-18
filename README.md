@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Divyanshu 👋
 
-<!--
-**DivyanshuGairwal/DivyanshuGairwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer and CS Student at UPES
 
-Here are some ideas to get you started:
+I enjoy building web applications and AI-powered products that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Working On
+
+- Full Stack Development
+- AI Powered Applications
+- React and Next.js Projects
+
+## 🛠 Tech Stack
+
+JavaScript • TypeScript • React • Next.js • Node.js • MongoDB • Python • Git
+
+## 🌟 Featured Projects
+
+### PrepWise
+AI Powered Interview Preparation Platform
+
+### Disaster Identification and Awareness Tool
+Real Time Dashboard using APIs and React
+
+### COVID-19 Forecasting
+Time Series Forecasting and Data Visualization
+
+## 📫 Connect With Me
+
+LinkedIn: https://linkedin.com/in/divyanshu-gairwal-980315299
+
+GitHub: https://github.com/DivyanshuGairwal
