@@ -1,4 +1,4 @@
-# Hi, I'm Divyanshu 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&center=true&vCenter=true&width=700&lines=Hi+I'm+Divyanshu;Full+Stack+Developer;Building+AI+Powered+Projects;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 ### Full Stack Developer | CS Student at UPES
 
@@ -40,4 +40,4 @@ Time Series Forecasting and Data Visualization
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuGairwal&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DivyanshuGairwal)
+
