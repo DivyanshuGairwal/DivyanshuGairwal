@@ -34,3 +34,10 @@ Time Series Forecasting and Data Visualization
 [LinkedIn](https://www.linkedin.com/in/divyanshu-gairwal-980315299)
 
 [GitHub](https://github.com/DivyanshuGairwal)
+## 📊 GitHub Stats
+
+![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DivyanshuGairwal&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuGairwal&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=DivyanshuGairwal)
