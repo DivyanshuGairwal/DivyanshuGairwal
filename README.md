@@ -1,16 +1,13 @@
 <h1 align="center">Hey 👋 I'm Divyanshu</h1>
 
-<h3 align="center">CS Student • Full Stack Developer • Building AI Powered Products</h3>
+<h3 align="center">
+CS Student • Full Stack Developer • Building Products That Solve Real Problems
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+AI+Powered+Products;React+%7C+Next.js+%7C+Node.js;Always+Learning+Always+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+AI+Powered+Projects;React+%7C+Next.js+%7C+Node.js;Always+Learning+New+Things" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/DivyanshuGairwal">
-    <img src="https://img.shields.io/github/followers/DivyanshuGairwal?label=Followers&style=for-the-badge" />
-  </a>
-</p>
 
 ## 🚀 About Me
 
