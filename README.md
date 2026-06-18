@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🎓 BCA Student at UPES Dehradun
+- 🎓 CS Student at UPES Dehradun
 - 💻 Interested in Full Stack Development and AI Applications
 - 🌱 Currently learning Next.js, TypeScript and AI Integration
 - 🚀 Building projects that solve real world problems
