@@ -1,12 +1,16 @@
-<h1 align="center">Hi 👋 I'm Divyanshu</h1>
+<h1 align="center">Hey 👋 I'm Divyanshu</h1>
 
-<h3 align="center">Full Stack Developer • BCA Student at UPES • Building AI Powered Products</h3>
+<h3 align="center">CS Student • Full Stack Developer • Building AI Powered Products</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+AI+Powered+Projects;React+and+Next.js+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+AI+Powered+Products;React+%7C+Next.js+%7C+Node.js;Always+Learning+Always+Building" />
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/DivyanshuGairwal">
+    <img src="https://img.shields.io/github/followers/DivyanshuGairwal?label=Followers&style=for-the-badge" />
+  </a>
+</p>
 
 ## 🚀 About Me
 
