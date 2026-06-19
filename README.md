@@ -64,7 +64,7 @@ AI Powered Interview Preparation Platform
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DivyanshuGairwal&theme=tokyonight&hide_border=true" />
-</p>
+</p>  
 
 ---
 
