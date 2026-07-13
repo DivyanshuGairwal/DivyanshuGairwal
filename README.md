@@ -117,7 +117,7 @@ React • JavaScript • APIs • Vercel
 
 <div align="center">
 
-# 🚀 PrepWise
+#  PrepWise
 
 ### AI Interview Intelligence Platform
 
