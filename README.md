@@ -101,6 +101,8 @@ Disaster monitoring and awareness platform.
 - Interactive Dashboard
 - Geolocation Integration
 
+  Deployed link:- https://disaster-identification-and-awarene.vercel.app/
+
 ---
 
 ## 🏆 GitHub Trophies
