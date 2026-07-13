@@ -5,12 +5,14 @@ Full Stack Developer • Building AI Products, Real-Time Systems & SaaS Applicat
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Building+AI+Powered+Products;Next.js+%7C+TypeScript+%7C+Node.js;Real-Time+Systems+%26+Trading+Engines;Always+Shipping+Projects+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Building+AI+Powered+Products;Next.js+%7C+TypeScript+%7C+Node.js;Real-Time+Systems+%26+SaaS+Apps;Learning+By+Building+%26+Shipping" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DivyanshuGairwal&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=DivyanshuGairwal&label=Profile+Views&color=7C3AED&style=for-the-badge" />
 </p>
+
+
 
 ---
 
