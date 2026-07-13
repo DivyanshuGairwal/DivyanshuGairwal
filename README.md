@@ -113,43 +113,39 @@ React • JavaScript • APIs • Vercel
 
 ---
 
-## 🚧 Currently Building
+## 🎯 Currently Building
 
-<table>
-<tr>
+<div align="center">
 
-<td width="50%">
+# 🚀 PrepWise
 
-### 🎯 PrepWise
+### AI Interview Intelligence Platform
 
-AI Interview Intelligence Platform
+Upload a resume and job description, then generate personalized technical, behavioral, HR, and resume-based interview questions powered by AI.
 
-- Resume + JD Analysis
-- AI Generated Questions
-- Interview Intelligence Reports
-- SaaS Product Development
+<br>
 
-🔗 https://prepwise.cc
+⚡ **Resume Intelligence**  
+⚡ **Role Match Analysis**  
+⚡ **AI Generated Interview Questions**  
+⚡ **Interview Intelligence Reports**  
+⚡ **Custom Domain SaaS Deployment**
 
-</td>
+<br>
 
-<td width="50%">
+🔗 **Live:** https://prepwise.cc
 
-### 📈 TradeFlow Exchange
+<br>
 
-Trading Engine & Matching System
+<img src="https://img.shields.io/badge/Status-Actively%20Building-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Stage-Public%20Beta-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Built%20With-Next.js-black?style=for-the-badge" />
 
-- Order Matching Engine
-- Exchange Architecture
-- Backend Systems
-- Real-Time Logic
+</div>
 
-🔗 https://tradeflow-exchange.vercel.app
+## 📌 Current Mission
 
-</td>
-
-</tr>
-</table>
+Building in public, improving PrepWise weekly, and turning it into a real SaaS product while learning system design, backend engineering, and AI product development.
 
 ---
 
