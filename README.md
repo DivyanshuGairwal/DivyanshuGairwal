@@ -1,30 +1,30 @@
 <h1 align="center">Hey 👋 I'm Divyanshu</h1>
 
 <h3 align="center">
-Full Stack Developer • Building AI Products & Real-Time Systems
+Full Stack Developer • Building AI Products, Real-Time Systems & SaaS Applications
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+AI+Powered+Products;Next.js+%7C+TypeScript+%7C+Node.js;Real-Time+Systems+%26+AI+Apps;Always+Shipping+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Building+AI+Powered+Products;Next.js+%7C+TypeScript+%7C+Node.js;Real-Time+Systems+%26+SaaS+Apps;Learning+By+Building+%26+Shipping" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DivyanshuGairwal&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=DivyanshuGairwal&label=Profile+Views&color=7C3AED&style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a full-stack developer who enjoys building products from idea to deployment.
+I'm a full stack developer passionate about turning ideas into real products.
 
-I work across frontend, backend, AI integrations, APIs, databases, and cloud deployments. Most of my learning comes from building real projects and solving practical problems.
+Most of my learning comes from building and deploying projects rather than following tutorials. I enjoy working across frontend, backend, APIs, databases, AI integrations, and product design.
 
-- 🚀 Building AI-powered products and developer tools
+- 🚀 Building AI-powered products and SaaS applications
 - 💻 Full Stack Development with React, Next.js, TypeScript & Node.js
-- ⚡ Interested in AI Applications, Real-Time Systems & Product Engineering
-- 🌱 Learning by building and shipping production-ready projects
-- 🎯 Goal: Become a strong software engineer and product builder
+- ⚡ Interested in AI Applications, Product Engineering & System Design
+- 🌱 Learning through real-world projects and deployments
+- 🎯 Goal: Become a strong Software Engineer and Product Builder
 
 ---
 
@@ -45,71 +45,76 @@ I work across frontend, backend, AI integrations, APIs, databases, and cloud dep
 ### Databases & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,docker,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,docker,git,github,postman,vscode" />
+</p>
+
+### Currently Exploring
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ---
 
-## 🌍 Featured Projects
+# 🚀 Featured Projects
 
-### 🎯 PrepWise
+## 🎯 PrepWise
 
-AI-powered interview intelligence platform.
+AI-powered Interview Intelligence Platform.
 
-**Highlights**
+### Highlights
 
 - Resume + Job Description Analysis
-- AI Generated Interview Questions
-- Technical, Behavioral & HR Preparation
-- Custom Domain Deployment
-- Production Ready SaaS Experience
+- Personalized Interview Question Generation
+- Technical, Behavioral & HR Interview Preparation
+- AI-Powered Interview Intelligence Reports
+- Modern SaaS Experience with Custom Domain
 
-**Tech**
+### Tech Stack
 
-Next.js • TypeScript • OpenRouter • Tailwind CSS • Framer Motion
+Next.js • TypeScript • Tailwind CSS • Framer Motion • OpenRouter
 
-🔗 https://prepwise.cc
+🔗 Live: https://prepwise.cc
 
 ---
 
-### 📈 TradeFlow Exchange
+## 📈 TradeFlow Exchange
 
-Real-time trading engine and exchange simulation.
+Real-Time Trading Exchange & Matching Engine.
 
-**Highlights**
+### Highlights
 
 - Price-Time Priority Matching Engine
 - Partial Order Fill Support
-- Real-Time Order Book Updates
-- REST APIs & WebSocket Communication
-- Dockerized Deployment
+- Real-Time Order Book
+- Trade Execution Engine
+- REST APIs & Backend Architecture
 
-**Tech**
+### Tech Stack
 
-Next.js • Express.js • Prisma • SQLite • WebSockets
+Next.js • Express.js • Prisma • SQLite • Docker
+
+🔗 Live: https://tradeflow-exchange.vercel.app
 
 ---
 
-### 🌍 Disaster Identification & Awareness Tool
+## 🌍 Disaster Identification & Awareness Tool
 
-Disaster monitoring and awareness platform.
+Real-Time Disaster Monitoring Platform.
 
-**Highlights**
+### Highlights
 
-- Real-Time Monitoring
-- Weather & Disaster APIs
+- Disaster & Weather Monitoring
 - Interactive Dashboard
 - Geolocation Integration
+- External API Integration
+- Real-Time Information Aggregation
 
-  Deployed link:- https://disaster-identification-and-awarene.vercel.app/
+### Tech Stack
 
----
+React • JavaScript • Tailwind CSS • Vercel
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DivyanshuGairwal&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+🔗 Live: https://disaster-identification-and-awarene.vercel.app/
 
 ---
 
@@ -130,6 +135,7 @@ Disaster monitoring and awareness platform.
 ## 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/divyanshu-gairwal-980315299/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
@@ -137,12 +143,22 @@ Disaster monitoring and awareness platform.
 <a href="https://github.com/DivyanshuGairwal">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
+
 </p>
 
 ---
 
+## 🎯 Current Focus
+
+```txt
+Building → PrepWise
+Learning → System Design
+Improving → Backend Architecture
+Goal → Software Engineering Roles
+```
+
+---
+
 <p align="center">
-  <b>Currently Building → PrepWise 🚀</b>
-  <br><br>
-  Learning by building. Growing by shipping.
+  <b>Learning by Building. Growing by Shipping. 🚀</b>
 </p>
